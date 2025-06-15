@@ -27,7 +27,7 @@
 
         <argument
             android:name="tarea"
-            app:argType="com.example.listask.model.Tarea"
+            app:argType="com.example.damiantasks.model.Tarea"
             app:nullable="true" />
     </fragment>
 
