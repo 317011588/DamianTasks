@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "964492065052",
+    "project_id": "damiantasks",
+    "storage_bucket": "damiantasks.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964492065052:android:83f8e2c415ecd473cae2d9",
+        "android_client_info": {
+          "package_name": "com.example.damiantasks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiyp_dV7rqntOrH6or99qNTXGR60b1FGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
